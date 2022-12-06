@@ -1,0 +1,43 @@
+.input-group{
+	
+	margin-top: 10%;
+
+}
+
+body,html{
+
+	background-image: url("https://thumbs.dreamstime.com/b/random-letters-english-alphabet-background-design-white-116204860.jpg");
+    background-size: cover;
+}
+
+.container{
+
+}
+.dictionary{
+align-content: center;
+margin-top: 12%;
+}
+#las{
+	text-align: right;
+}
+.card-body{
+background-image: linear-gradient(to right,grey,black);
+padding: 40px;
+
+}
+.card-text{
+	color:white;
+	font-size: 20px;
+}
+#inputvalue{
+	border: 2px solid black;
+	background-color: yellow;
+}
+#img1{
+	height: 280px;
+	width: 1000px;
+	background-image: transparent;
+}
+h4{
+	color: white;
+}
